@@ -1,12 +1,12 @@
 {
-  "name": "bcoin",
+  "name": "btcl-bcoin",
   "version": "1.0.0-beta.12",
   "description": "Bitcoin bike-shed",
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bcoin.git",
-  "homepage": "https://github.com/bcoin-org/bcoin",
+  "repository": "git://github.com/frz-dev/btcl-bcoin.git",
+  "homepage": "https://github.com/frz-dev/btcl-bcoin",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bcoin/issues"
+    "url": "https://github.com/frz-dev/btcl-bcoin/issues"
   },
   "author": "Fedor Indutny <fedor@indutny.com>",
   "contributors": [
