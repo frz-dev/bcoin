@@ -1,6 +1,6 @@
 'use strict';
 
-var bcoin = require('bcoin');
+var bcoin = require('btcl-bcoin');
 var assert = require('assert');
 
 var master = bcoin.hd.generate();
