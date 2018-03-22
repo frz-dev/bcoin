@@ -1,6 +1,6 @@
 {
   "name": "btcl-bcoin",
-  "version": "1.0.0-beta.15",
+  "version": "1.0.0-beta.15a",
   "description": "Bitcoin bike-shed",
   "license": "MIT",
   "repository": "git://github.com/frz-dev/bcoin-local.git",
