@@ -1,7 +1,7 @@
 Scripts are array-like objects with some helper functions.
 
 ``` js
-var bcoin = require('bcoin');
+var bcoin = require('btcl-bcoin');
 var assert = require('assert');
 var BN = bcoin.bn;
 var opcodes = bcoin.script.opcodes;

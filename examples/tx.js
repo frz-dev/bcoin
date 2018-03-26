@@ -1,6 +1,6 @@
 'use strict';
 
-const bcoin = require('bcoin');
+const bcoin = require('btcl-bcoin');
 const assert = require('assert');
 
 (async () => {

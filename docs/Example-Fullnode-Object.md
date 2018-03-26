@@ -1,5 +1,5 @@
 ``` js
-var bcoin = require('bcoin').set('main');
+var bcoin = require('btcl-bcoin').set('main');
 
 var node = bcoin.fullnode({
   checkpoints: true,

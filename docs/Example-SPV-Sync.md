@@ -1,5 +1,5 @@
 ``` js
-var bcoin = require('bcoin').set('testnet');
+var bcoin = require('btcl-bcoin').set('testnet');
 
 // SPV chains only store the chain headers.
 var chain = new bcoin.chain({

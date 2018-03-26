@@ -1,5 +1,5 @@
 ``` js
-var bcoin = require('bcoin');
+var bcoin = require('btcl-bcoin');
 
 bcoin.set({
   // Default network (so we can avoid passing

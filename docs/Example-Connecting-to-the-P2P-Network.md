@@ -1,5 +1,5 @@
 ``` js
-var bcoin = require('bcoin').set('main');
+var bcoin = require('btcl-bcoin').set('main');
 
 // Create a blockchain and store it in leveldb.
 // `db` also accepts `rocksdb` and `lmdb`.

@@ -8,7 +8,7 @@ Bcoin also offers a mutable transaction object (MTX). Mutable transactions
 inherit from the TX object, but can also be signed and modified.
 
 ``` js
-var bcoin = require('bcoin');
+var bcoin = require('btcl-bcoin');
 var assert = require('assert');
 
 // Create an HD master keypair.
@@ -82,7 +82,7 @@ change output added. Bcoin has a nice method of dealing with this.
 Let's try it more realistically:
 
 ``` js
-var bcoin = require('bcoin');
+var bcoin = require('btcl-bcoin');
 var assert = require('assert');
 
 var master = bcoin.hd.generate();
